@@ -1,0 +1,22 @@
+
+.odd {
+    background-color: salmon;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.adjust_font_size{
+    font-size: 24px;
+}
+
+#second_title {
+    background-color: white;
+    color: blue;
+    font-size: 36px;
+
+}
+
+#fourth_title {
+    background-color: greenyellow;
+    font-size: 24px;
+    font-weight: bold;
+}
